@@ -1,7 +1,7 @@
 SEW | CORE | Forum
 
 ## User Story 1
-*As a crypto enthusiast, I need a forum system, in order to exchange ideas with other like-minded people.*
+*As a crypto enthusiast, I need a forum system (like e.g. [reddit](https://www.reddit.com/r/vuejs/)), in order to exchange ideas with other like-minded people.*
 
 ### Acceptance Criteria
 - A forum system using VueJS is created.
