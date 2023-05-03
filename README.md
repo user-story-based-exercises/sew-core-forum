@@ -9,7 +9,7 @@ SEW | CORE | Forum
 - Once the "add button" is clicked an overlay, to enter and save an idea, is displayed.
 - Once the idea is saved, the list of all ideas is displayed.
 - The timestamp for each idea is displayed.
-- The format for the timestamp is "5 minutes ago" - The hightest possible duration is used.
+- The format for the timestamp is "5 minutes ago" - The hightest possible duration is used. The format of the timestamp is updated only on a page reload. 
 
 ## User Story 2
 *As a crypto enthusiast, I want to comment on an idea or other comments, in order to share my thoughts and bring value to the community.*
